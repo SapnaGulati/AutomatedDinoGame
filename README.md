@@ -1,2 +1,2 @@
 # AutomatedDinoGame
-It is the automation of the dinosor game.
+Dinosor game which is displayed by the user for playing when interconnection has been lost... So i just try to automate that game in which game will be automatically played...
